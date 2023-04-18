@@ -1,5 +1,5 @@
 # HOG-SVM-pedestrian-detection
-西安交通大学自动化钱专业人工智能课作业。行人检测，采用HOG特征，和SVM分类器，在INRIAPerson数据集上进行检测。
+行人检测，采用HOG特征，和SVM分类器，在INRIAPerson数据集上进行检测。
 
 由于老师要求有一些模糊，代码中加上了自己对作业的理解。
 
